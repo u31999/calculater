@@ -1,0 +1,1 @@
+- This is basic calculater, the code is written using html, css, and vanila js. 
